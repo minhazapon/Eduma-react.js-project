@@ -1,0 +1,113 @@
+
+.eduma-text{
+
+   font-size: 40px;
+   font-weight: bold; 
+   color: white;
+}
+.nav-padding{
+
+   padding: 20px;
+   box-shadow: 10px ;
+
+}
+.button-text{
+
+   color: white;
+
+}
+.nav-flex{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+}
+.nav-icon{
+
+   height: 50px;
+
+}
+.banner-div-2{
+
+   
+   background-color: rgba(0, 0, 0, 0.432);
+   padding: 120px;
+   color: white;
+
+}
+.banner-text-1{
+
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.text-learn{
+   
+    font-size: 70px;
+    font-weight: 700;
+
+
+}
+.button-text{
+
+   color: white;
+   background-color: rgb(0, 0, 104);
+
+}
+.b-i-1{
+
+   height: 50px;
+   width: 50px;
+
+
+}
+.best{
+  
+   font-size: 20px; 
+   line-height: 25px;
+   font-weight: 500;
+
+}
+.view-btn{
+
+   font-size: 15px;
+   margin-top: 5px;
+
+}
+.icon-box-flex{
+   
+   display: flex;
+   align-items: center; 
+   gap: 10px;
+   background-color: rgba(0, 0, 0, 0.705);
+   padding: 20px;
+   height: 100px;
+   width: 400px;
+  
+}
+.box-div{
+
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   gap: 10px;
+   margin-top: 50px;
+   color: white;
+
+}
+.banner-div{
+
+   background-image: url('https://oapen-uk.jiscebooks.org/wp-content/uploads/2021/04/pioneers-of-education-1.jpg');
+   background-repeat: no-repeat ;
+   background-size: cover;
+   margin-bottom: 50px;
+   
+
+
+}
+.nav-title-text{
+
+   color: white;
+
+}
