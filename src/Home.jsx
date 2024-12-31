@@ -1,4 +1,5 @@
 import Courses from "./home file/Courses";
+import Events from "./home file/Events";
 import HomeBanner from "./home file/HomeBanner";
 
 
@@ -9,6 +10,7 @@ const Home = () => {
 
             <HomeBanner></HomeBanner>
             <Courses></Courses>
+            <Events></Events>
             
         </div>
     );
