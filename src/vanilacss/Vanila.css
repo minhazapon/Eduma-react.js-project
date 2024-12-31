@@ -111,3 +111,100 @@
    color: white;
 
 }
+.courses-div{
+
+   margin-left: 80px;
+   margin-right: 80px;
+
+
+}
+.pc-text{
+
+   font-size: 30px;
+   font-weight: 500;
+
+}
+.limit-bg{
+
+   background-color: rgba(255, 189, 48, 0.788) ;
+   width: 300px;
+   padding: 5px;
+   color: white;
+
+}
+.course-box-image{
+
+   height: 250px;
+   width:  250px;
+   border-radius: 10px;
+  
+
+
+}
+.image-flex{
+
+   display: flex ;
+   justify-content: center;
+  
+
+}
+.teach-img{
+
+   height: 60px;
+   width:  60px;
+   border-radius: 100%;
+
+
+}
+.t-img-1{
+   
+   display: flex;
+   justify-content: center;
+   margin-top: -20px;
+
+}
+.keny{
+
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 500;
+
+}
+.join-text{
+
+  text-align: center;
+  margin-top: 10px;
+  line-height: 20px;
+  font-weight: 500;
+
+}
+.tc{
+
+   font-size: 15px;
+   font-weight: 400;
+   text-align: center;
+
+}
+.tp-flex{
+
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   margin-top: 20px;
+
+}
+.box-over{
+
+   border: 1px solid rgba(128, 128, 128, 0.219);
+   padding: 20px;
+
+}
+.course-flex{
+
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+
+
+}
